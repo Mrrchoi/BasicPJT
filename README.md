@@ -45,8 +45,8 @@
 | 파일 API | 파일 업로드 | POST | http://localhost:8080/api/file/upload | 로그인 되어있는 경우에만 업로드 가능 |
 | 파일 API | 특정 파일 조회 | GET | http://localhost:8080/api/file/{fileName} | - |
 | 파일 API | 특정 파일 삭제 | POST | http://localhost:8080/api/file/{fileName} | - |
-| jwtToken API | token generate | POST | http://localhost:8080/generateToken | login api를 통해 호출 |
-| jwtToken API | token refresh | POST | http://localhost:8080/refreshToken | AccessToken이 만료된 경우에만 호출 |
+| JWT Token API | token generate | POST | http://localhost:8080/generateToken | login api를 통해 호출 |
+| JWT Token API | token refresh | POST | http://localhost:8080/refreshToken | AccessToken이 만료된 경우에만 호출 |
 
 ## 4. 프로젝트 상세
 ### 1. Dependencies
