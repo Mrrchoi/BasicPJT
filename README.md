@@ -7,6 +7,7 @@
 - 백엔드 학습을 위한 프로젝트로 프론트 부분은 구현되어 있지 않음
 - 회원 기능과 게시글, 댓글, 파일 업로드 기능 구현
 - 각 기능들을 REST API 방식으로 구현했으며 Talend API Tester, Swagger를 통해 Test 진행
+- Spring Boot 3.2.0 / JDK: 17
 
 ## 2. 기술 스택
 ### Environment
